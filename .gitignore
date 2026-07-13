@@ -1,0 +1,6 @@
+`__pycache__/   #skip the byte compiled code
+*.pyc
+.pytest_cache/
+.env
+*.eml
+sample_emails/*.txt`
