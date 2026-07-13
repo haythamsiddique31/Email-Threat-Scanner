@@ -1,17 +1,8 @@
-# Email Threat Scanner
+# 𝓔𝓶𝓪𝓲𝓵 𝓣𝓱𝓻𝓮𝓪𝓽 𝓢𝓬𝓪𝓷𝓷𝓮𝓻  𝓐 𝓵𝓲𝓰𝓱𝓽𝔀𝓮𝓲𝓰𝓱𝓽, 𝓮𝓭𝓾𝓬𝓪𝓽𝓲𝓸𝓷𝓪𝓵 𝓟𝔂𝓽𝓱𝓸𝓷 𝓽𝓸𝓸𝓵 𝓯𝓸𝓻 𝓪𝓷𝓪𝓵𝔂𝓼𝓲𝓷𝓰 𝓮𝓶𝓪𝓲𝓵 𝓬𝓸𝓷𝓽𝓮𝓷𝓽 𝓪𝓷𝓭 𝓭𝓮𝓽𝓮𝓬𝓽𝓲𝓷𝓰 𝓫𝓮𝓱𝓪𝓿𝓲𝓸𝓾𝓻𝓪𝓵 𝓲𝓷𝓭𝓲𝓬𝓪𝓽𝓸𝓻𝓼 𝓸𝓯 𝓶𝓪𝓵𝓲𝓬𝓲𝓸𝓾𝓼 𝓲𝓷𝓽𝓮𝓷𝓽. 𝓓𝓮𝓼𝓲𝓰𝓷𝓮𝓭 𝓯𝓸𝓻 𝓫𝓵𝓾𝓮-𝓽𝓮𝓪𝓶 𝓽𝓻𝓪𝓲𝓷𝓲𝓷𝓰, 𝓼𝓮𝓬𝓾𝓻𝓲𝓽𝔂 𝓪𝔀𝓪𝓻𝓮𝓷𝓮𝓼𝓼, 𝓪𝓷𝓭 𝓶𝓪𝓵𝔀𝓪𝓻𝓮 𝓪𝓷𝓪𝓵𝔂𝓼𝓲𝓼 𝓮𝓭𝓾𝓬𝓪𝓽𝓲𝓸𝓷 - 𝓪𝓷𝔂𝓽𝓱𝓲𝓷𝓰 𝓮𝓵𝓼𝓮 𝓪𝓵𝓼𝓸 𝓫𝓾𝓽 𝓶𝓸𝓻𝓮𝓼𝓸 𝓽𝓱𝓸𝓼𝓮 𝓼𝓮𝓬𝓽𝓸𝓻𝓼 - 1𝓼𝓽 𝓲𝓽𝓮𝓻𝓪𝓽𝓲𝓸𝓷, 𝔀𝓲𝓵𝓵 𝓫𝓮 𝓲𝓶𝓹𝓻𝓸𝓿𝓲𝓷𝓰 𝓽𝓱𝓲𝓼 𝓾𝓹𝓸𝓷 𝓯𝓮𝓮𝓭𝓫𝓪𝓬𝓴 ~ 
 
-A lightweight, educational Python tool for analysing email content and detecting behavioural indicators of malicious intent. Designed for blue-team training, security awareness, and malware analysis education - anything else also but moreso those sectors - 1st iteration, will be improving this upon feedback ~
+## 𝓦𝓱𝓪𝓽 𝓘𝓽 𝓔𝓼𝓼𝓮𝓷𝓽𝓲𝓪𝓵𝓵𝔂 𝓓𝓮𝓽𝓮𝓬𝓽𝓼:  **𝓠𝓾𝓲𝓭 𝓟𝓻𝓸 𝓠𝓾𝓸**: 𝓢𝓸𝓬𝓲𝓪𝓵 𝓮𝓷𝓰𝓲𝓷𝓮𝓮𝓻𝓲𝓷𝓰 𝔀𝓱𝓮𝓻𝓮 𝓽𝓱𝓮 𝓪𝓽𝓽𝓪𝓬𝓴𝓮𝓻 𝓸𝓯𝓯𝓮𝓻𝓼 𝓱𝓮𝓵𝓹 𝓲𝓷 𝓮𝔁𝓬𝓱𝓪𝓷𝓰𝓮 𝓯𝓸𝓻 𝓪𝓬𝓬𝓮𝓼𝓼/𝓬𝓻𝓮𝓭𝓮𝓷𝓽𝓲𝓪𝓵𝓼, 𝓯𝓾𝓻𝓽𝓱𝓮𝓻 𝓷𝓪𝓿𝓲𝓰𝓪𝓽𝓲𝓸𝓷 𝔀𝓲𝓽𝓱𝓲𝓷 𝓪 𝓼𝔂𝓼𝓽𝓮𝓶 | "𝓗𝓮𝔂, 𝓘'𝓶 𝓯𝓻𝓸𝓶 𝓘𝓣 𝓼𝓾𝓹𝓹𝓸𝓻𝓽. 𝓛𝓮𝓽 𝓶𝓮 𝓯𝓲𝔁 𝔂𝓸𝓾𝓻 𝓬𝓸𝓶𝓹𝓾𝓽𝓮𝓻 𝓻𝓮𝓶𝓸𝓽𝓮𝓵𝔂, "𝓨𝓸𝓾 𝓳𝓾𝓼𝓽 𝔀𝓸𝓷 𝓪 𝓯𝓻𝓮𝓮 𝓘𝓹𝓪𝓭, 𝓬𝓵𝓬𝓴 𝓱𝓮𝓻𝓮 𝓯𝓸𝓻 𝓶𝓸𝓻𝓮, 𝓮𝓽𝓬."   **𝓣𝓻𝓸𝓳𝓪𝓷 𝓓𝓮𝓵𝓲𝓿𝓮𝓻𝔂**: 𝓐𝓽𝓽𝓮𝓶𝓹𝓽𝓼 𝓽𝓸 𝓭𝓮𝓵𝓲𝓿𝓮𝓻 𝓶𝓪𝓵𝔀𝓪𝓻𝓮 𝓿𝓲𝓪 𝓪𝓽𝓽𝓪𝓬𝓱𝓶𝓮𝓷𝓽𝓼 𝓸𝓻 𝓮𝓶𝓫𝓮𝓭𝓭𝓮𝓭 𝓼𝓬𝓻𝓲𝓹𝓽𝓼, `.𝓮𝔁𝓮` 𝓪𝓽𝓽𝓪𝓬𝓱𝓶𝓮𝓷𝓽𝓼, 𝓹𝓪𝓼𝓼𝔀𝓸𝓻𝓭-𝓹𝓻𝓸𝓽𝓮𝓬𝓽𝓮𝓭 𝓪𝓻𝓬𝓱𝓲𝓿𝓮𝓼, 𝓭𝓸𝓾𝓫𝓵𝓮 𝓮𝔁𝓽𝓮𝓷𝓼𝓲𝓸𝓷𝓼, 𝓶𝓲𝓼𝓹𝓮𝓵𝓵𝓮𝓭 𝓭𝓸𝓶𝓪𝓲𝓷𝓼  **𝓟𝓱𝓲𝓼𝓱𝓲𝓷𝓰 (𝓘𝓷𝓬𝓵𝓾𝓭𝓲𝓷𝓰 𝓢𝓟𝓔𝓐𝓡 𝓟𝓗𝓘𝓢𝓗𝓘𝓝𝓖)**: 𝓒𝓻𝓮𝓭𝓮𝓷𝓽𝓲𝓪𝓵 𝓱𝓪𝓻𝓿𝓮𝓼𝓽𝓲𝓷𝓰 𝓪𝓷𝓭 𝓭𝓮𝓬𝓮𝓹𝓽𝓲𝓿𝓮 𝓼𝓮𝓷𝓭𝓮𝓻 𝓹𝓻𝓪𝓬𝓽𝓲𝓬𝓮𝓼, 𝓢𝓹𝓸𝓸𝓯𝓮𝓭 𝓭𝓲𝓼𝓹𝓵𝓪𝔂 𝓷𝓪𝓶𝓮𝓼, 𝓶𝓲𝓼𝓶𝓪𝓽𝓬𝓱𝓮𝓭 𝓻𝓮𝓹𝓵𝔂-𝓽𝓸, 𝓤𝓡𝓛 𝓼𝓱𝓸𝓻𝓽𝓮𝓷𝓮𝓻𝓼  ## 𝓘𝓷𝓼𝓽𝓪𝓵𝓵𝓪𝓽𝓲𝓸𝓷
 
-## What It Essentially Detects:
-
-**Quid Pro Quo**: Social engineering where the attacker offers help in exchange for access/credentials, further navigation within a system | "Hey, I'm from IT support. Let me fix your computer remotely, "You just won a free Ipad, clck here for more, etc." 
-
-**Trojan Delivery**: Attempts to deliver malware via attachments or embedded scripts, `.exe` attachments, password-protected archives, double extensions, mispelled domains
-
-**Phishing (Including SPEAR PHISHING)**: Credential harvesting and deceptive sender practices, Spoofed display names, mismatched reply-to, URL shorteners
-
-## Installation - Purpose & Use
-
+- 𝓟𝓾𝓻𝓹𝓸𝓼𝓮 & 𝓤𝓼𝓮
 ```bash
 git clone https://github.com/YOUR_USERNAME/email-threat-scanner.git
 cd email-threat-scanner
